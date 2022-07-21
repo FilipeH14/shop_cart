@@ -27,6 +27,10 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  teste_button:
+    git:
+      url: https://github.com/FilipeH14/teste_button.git
+      ref: b568527e5d8a810942d456c76f6241cf548a9d60 # commit
   flutter:
     sdk: flutter
   get: ^4.6.5
